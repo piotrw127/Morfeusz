@@ -1,7 +1,10 @@
 # Morfeusz
 Morfeusz - 3d graphics
 
-3d gallery: http://galeria.radius-it.eu 
+3d gallery: http://galeria.radius-it.eu http://grafika.radius-it.eu
+
+https://twitter.com/MorfeuszN
+https://www.facebook.com/morpheusit/
 
 my projects: http://radius-it.eu/galeria-obiektow-3d/ http://radius-it.eu/galeria-grafika-3d/
 http://radius-it.eu http://lang.radius-it.eu http://forum.radius-it.eu http://daniell.radius-it.eu http://sklep.radius-it.eu http://borderlinka.radius-it.eu http://radius-mlawa.eu http://radius.vxm.pl http://grafika.radius-it.eu http://radius-it.eu/en/ http://radius-it.eu/cz/ http://radius-it.eu/de/
